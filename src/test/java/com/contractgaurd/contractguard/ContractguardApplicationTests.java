@@ -1,4 +1,4 @@
-package com.contractgaurd.contractguard;
+package com.contractguard.contractguard;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

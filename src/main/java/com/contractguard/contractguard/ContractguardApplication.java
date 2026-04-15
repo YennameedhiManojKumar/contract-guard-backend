@@ -1,4 +1,4 @@
-package com.contractgaurd.contractguard;
+package com.contractguard.contractguard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
